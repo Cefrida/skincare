@@ -36,6 +36,7 @@ data/
 writeup/
 - writeup.pdf
 
+File Functions: 
 #### app.py 
   - A python file that contains the code for the dash.
 
