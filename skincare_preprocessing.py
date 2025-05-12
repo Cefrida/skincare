@@ -38,7 +38,6 @@ Preprocessing steps:
 3. Concatenate all reviews into one review df (combined_reviews_df)
 """
 
-import pandas as pd
 
 # List of review files
 review_files = [
@@ -107,7 +106,6 @@ skincare.columns
 !pip install vaderSentiment
 !pip install textblob
 
-import pandas as pd
 from textblob import TextBlob
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from concurrent.futures import ProcessPoolExecutor
