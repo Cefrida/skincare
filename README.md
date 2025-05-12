@@ -40,7 +40,7 @@ File Functions:
 #### app.py 
   - A python file that contains the code for the dash.
 
-#### Skincare_preprocessing.py
+#### skincare_preprocessing.py
   - A python file that contains preprocessing steps for the raw data. This can be run by the user to get the exact final
     code I have displayed in the data folder. The version in the folder is a subset of the full data.
 
