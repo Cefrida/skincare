@@ -25,7 +25,7 @@ It includes:
 # Setup Instructions
 
 1. Clone Repository
-  git clone https://github.com/your-username/skincare-recommender.git
+  git clone (https://github.com/Cefrida/skincare.git )
   cd skincare-recommender
 2. Create a virtual environemnt (not required but recommended)
    python -m venv venv
