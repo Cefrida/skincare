@@ -26,13 +26,13 @@ Users can then select two products from their top 10 to compare. The system uses
 
 # Folder Structure
 skincare/
-├── README.md
-├── app.py
-├── skincare_preprocessing.py
-├── data/
-│   └── sample_10mb.csv
-├── writeup/
-│   └── writeup.pdf
+- README.md
+-  app.py
+-  skincare_preprocessing.py
+data/
+- sample_10mb.csv
+writeup/
+- writeup.pdf
 
 App.py 
   - A python file that contains the code for the dash.
