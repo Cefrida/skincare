@@ -34,15 +34,18 @@ data/
 writeup/
 - writeup.pdf
 
-App.py 
+#### app.py 
   - A python file that contains the code for the dash.
-Skincare_preprocessing.py
+
+#### Skincare_preprocessing.py
   - A python file that contains preprocessing steps for the raw data. This can be run by the user to get the exact final
     code I have displayed in the data folder. The version in the folder is a subset of the full data.
-sample_10mb.csv
+
+#### sample_10mb.csv
   - A 10mb file containing a subset of the data. This is just for viewership and is not fully representative of the full
     data.
-writeup.pdf
+    
+#### writeup.pdf
   - The writeup provides a clear, high-level overview of the skincare recommender project, including its motivation, data
     sources, methodology, and use case. It explains how the tool was built, highlights key decisions, and
     demonstrates how the recommender can be used. 
