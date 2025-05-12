@@ -2,7 +2,7 @@
 # Overview
 Online skincare shopping can be overwhelming—especially when you're faced with dozens of similar products and limited filters like price or rating. This tool aims to simplify the process by offering a smarter way to compare skincare products, taking into account your skin type and other priorities like product category, price, and rating.
 
-Unlike typical e-commerce sites, this recommender leverages over 600,000 reviews from real users and filters them based on skin type (dry, oily, combination, or normal). Whether you're looking for the best sunscreen for oily skin or a moisturizer that works well for combination types, this tool can help you make more informed, personalized decisions—without opening 10 tabs.
+Unlike typical e-commerce filters, this recommender uses over 600,000 reviews from real users. 
 
 # Features
 Personalized product filtering by:
