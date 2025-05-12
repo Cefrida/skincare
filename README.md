@@ -29,8 +29,10 @@ skincare/
 - README.md
 -  app.py
 -  skincare_preprocessing.py
+
 data/
 - sample_10mb.csv
+
 writeup/
 - writeup.pdf
 
