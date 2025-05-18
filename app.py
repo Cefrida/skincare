@@ -3,13 +3,10 @@ from dash import dcc, html
 from dash.dependencies import Input, Output
 import pandas as pd
 
-# Create the Dash app
 app = dash.Dash(__name__)
 
-# Load your dataset
 merged_df = pd.read_csv('data/skincare_final.csv', dtype={0: str})
 
-# Get unique categories and skin types
 categories = merged_df['secondary_category'].unique()
 merged_df['skin_type'] = merged_df['skin_type'].str.capitalize()
 skin_types = merged_df['skin_type'].unique()
